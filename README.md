@@ -6,3 +6,6 @@ https://www.npmjs.com/package/delay
 
 #### Animated loading skeletons
 https://www.npmjs.com/package/react-loading-skeleton
+
+### ORM 
+https://www.prisma.io/docs/getting-started
